@@ -20,7 +20,7 @@ jobs:
     - name: install dependencies
       run: flutter pub get
     - name: run test with coverage
-      run: flutter test --coverage
+      run: flutter test --platform chrome --coverage
     - uses: codecov/codecov-action@v3
       with:
         token: ${{secrets.CODECOV_TOKEN}}
