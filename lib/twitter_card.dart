@@ -3,3 +3,4 @@
 // modification, are permitted provided the conditions.
 
 export 'package:twitter_card/src/twitter_card.dart';
+export 'package:twitter_card/src/twitter_card_exception.dart';

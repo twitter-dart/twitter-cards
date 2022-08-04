@@ -5,6 +5,8 @@
 // ignore: avoid_web_libraries_in_flutter
 import 'dart:html' as html;
 
+import 'package:twitter_card/src/twitter_card_exception.dart';
+
 /// Set up a Twitter Summary Card based on the given arguments.
 ///
 /// When this function is called, the HTML meta tags needed to configure
@@ -63,10 +65,10 @@ html.HeadElement setupSummaryCard({
 /// Returns the required meta element.
 html.MetaElement? _buildRequiredMetaElement(
   final String name,
-  final String? content,
+  final String content,
 ) {
-  if (content == null || content.isEmpty) {
-    throw UnsupportedError('The content of [$name] is required.');
+  if (content.isEmpty) {
+    throw TwitterCardException('The content of [$name] is required.');
   }
 
   return html.MetaElement()
