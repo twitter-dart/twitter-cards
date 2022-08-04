@@ -5,7 +5,7 @@
 // ignore: avoid_web_libraries_in_flutter
 import 'dart:html' as html;
 
-import 'package:twitter_card/src/twitter_card_exception.dart';
+import 'twitter_card_exception.dart';
 
 /// Set up a Twitter Summary Card based on the given arguments.
 ///
@@ -13,8 +13,8 @@ import 'package:twitter_card/src/twitter_card_exception.dart';
 /// the Twitter Summary Card are safely inserted into the html of
 /// the invoked web application.
 ///
-/// It returns the [HeadElement] object after the meta tag has been inserted,
-/// but this is for validation purposes.
+/// It returns the [html.HeadElement] object after the meta tag has been
+/// inserted, but this is for validation purposes.
 ///
 /// ## Parameters
 ///
