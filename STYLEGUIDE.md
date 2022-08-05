@@ -77,7 +77,7 @@ foo(f1,
 ### 1.1.3. Imports
 
 - Never include unused or duplicated imports.
-- You must always use relative imports for imports within the `twitter_card` (internal imports must
+- You must always use relative imports for imports within the `twitter_cards` (internal imports must
   be relative).
 - Omit `./` for relative imports from the same directory.
 - Avoid importing groups of APIs internally.
@@ -96,7 +96,7 @@ import 'package:http/http.dart' as http;
 import 'client.dart';
 ```
 
-Also you can see the latest formatting rules on the [analysis_options.yaml](https://github.com/twitter-dart/twitter-card/blob/main/analysis_options.yaml)!
+Also you can see the latest formatting rules on the [analysis_options.yaml](https://github.com/twitter-dart/twitter-cards/blob/main/analysis_options.yaml)!
 
 ## 1.2. Code Structure
 

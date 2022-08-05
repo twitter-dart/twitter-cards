@@ -1,6 +1,6 @@
 ---
 name: Feature request.
-about: Suggest a new feature for twitter_card.
+about: Suggest a new feature for twitter_cards.
 title: ""
 labels: ""
 assignees: "myConsciousness"

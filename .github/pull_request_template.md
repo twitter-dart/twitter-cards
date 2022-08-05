@@ -33,7 +33,7 @@ Indicate which of these issues are resolved or fixed by this PR, i.e. Fixes #xxx
 
 <!-- Links -->
 
-[issue database]: https://github.com/twitter-dart/twitter-card/issues
-[contributor guide]: https://github.com/twitter-dart/twitter-card/blob/main/CONTRIBUTING.md
-[style guide]: https://github.com/twitter-dart/twitter-card/blob/main/STYLEGUIDE.md
+[issue database]: https://github.com/twitter-dart/twitter-cards/issues
+[contributor guide]: https://github.com/twitter-dart/twitter-cards/blob/main/CONTRIBUTING.md
+[style guide]: https://github.com/twitter-dart/twitter-cards/blob/main/STYLEGUIDE.md
 [conventional commit]: https://conventionalcommits.org

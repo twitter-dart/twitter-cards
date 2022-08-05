@@ -3,7 +3,7 @@
 // modification, are permitted provided the conditions.
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:twitter_card/twitter_card.dart';
+import 'package:twitter_cards/src/twitter_card_builder.dart';
 
 void main() {
   group('.setupSummaryCard', () {

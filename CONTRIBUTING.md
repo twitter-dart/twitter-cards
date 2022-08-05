@@ -75,20 +75,20 @@ and it will be automatically reflected in the PR.
   [file a bug or feature report][github issues], so that we can discuss what direction to follow.
 - [Fork the project][fork guide] on GitHub.
 - Clone the forked repository to your local development machine
-  (e.g. `git clone git@github.com:<YOUR_GITHUB_USER>/twitter-card.git`).
+  (e.g. `git clone git@github.com:<YOUR_GITHUB_USER>/twitter-cards.git`).
 
 ### 1.3.1. Performing changes
 
 - Create a new local branch from `main` (e.g. `git checkout -b my-new-feature`)
 - Make your changes.
 - When committing your changes, make sure that each commit message is clear
-  (e.g. `git commit -m 'Take in an optional something as a parameter to twitter-card'`).
+  (e.g. `git commit -m 'Take in an optional something as a parameter to twitter-cards'`).
 - Push your new branch to your own fork into the same remote branch
   (e.g. `git push origin my-username.my-new-feature`, replace `origin` if you use another remote.)
 
 ### 1.3.2. Open a pull request
 
-Go to the [pull request page of twitter_card][prs] and in the top
+Go to the [pull request page of twitter_cards][prs] and in the top
 of the page it will ask you if you want to open a pull request from your newly created branch.
 
 The title of the pull request should start with a [conventional commit] type.
@@ -113,9 +113,9 @@ Examples of PR titles:
 - test: Add test for `something.dart`
 - refactor: Optimize the structure of `setupSummaryCard`
 
-[github issue]: https://github.com/twitter-dart/twitter-card/issues/new
-[github issues]: https://github.com/twitter-dart/twitter-card/issues/new
-[prs]: https://github.com/twitter-dart/twitter-card/pulls
+[github issue]: https://github.com/twitter-dart/twitter-cards/issues/new
+[github issues]: https://github.com/twitter-dart/twitter-cards/issues/new
+[prs]: https://github.com/twitter-dart/twitter-cards/pulls
 [fork guide]: https://guides.github.com/activities/forking/#fork
 [pubspec doc]: https://dart.dev/tools/pub/pubspec
 [conventional commit]: https://www.conventionalcommits.org

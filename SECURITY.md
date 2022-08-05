@@ -9,12 +9,12 @@
 
 <!-- /TOC -->
 
-This document outlines security procedures and general policies for the `twitter_card` project created by `Kato Shinya`.
+This document outlines security procedures and general policies for the `twitter_cards` project created by `Kato Shinya`.
 
 ## 1.1. Reporting a Bug
 
-The team and community take all security bugs in `twitter_card` seriously.
-Thank you for improving the security of `twitter_card`. We appreciate your efforts and
+The team and community take all security bugs in `twitter_cards` seriously.
+Thank you for improving the security of `twitter_cards`. We appreciate your efforts and
 responsible disclosure and will make every effort to acknowledge your
 contributions.
 

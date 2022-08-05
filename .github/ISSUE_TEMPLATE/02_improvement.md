@@ -1,6 +1,6 @@
 ---
 name: Improvement suggestion.
-about: Something in twitter_card can be improved.
+about: Something in twitter_cards can be improved.
 title: ""
 labels: "enhancement"
 assignees: "myConsciousness"

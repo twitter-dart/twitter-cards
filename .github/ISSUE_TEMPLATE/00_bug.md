@@ -33,7 +33,7 @@ Output of: flutter doctor -v
 
 <!--
 Create a list of more environment information, like:
-* twitter_card version: 0.4.0
+* twitter_cards version: 0.4.0
 -->
 
 # 6. Log information
