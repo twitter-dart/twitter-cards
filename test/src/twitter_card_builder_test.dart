@@ -2,14 +2,16 @@
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted provided the conditions.
 
+import 'dart:html';
+
 import 'package:flutter_test/flutter_test.dart';
-import 'package:twitter_cards/src/twitter_card_builder.dart';
+import 'package:twitter_cards/src/twitter_card.dart';
 
 void main() {
   group('.setupSummaryCard', () {
-    test('should return a HeadElement', () {
-      final head = setupSummaryCard(title: 'Flutter!');
-      final children = head.children;
+    test('with required parameter', () {
+      setupSummaryCard(title: 'Flutter!');
+      final children = document.head!.children;
 
       expect(
         children[children.length - 2].getAttribute('name'),

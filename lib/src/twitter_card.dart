@@ -13,9 +13,6 @@ import 'twitter_card_exception.dart';
 /// the Twitter Summary Card are safely inserted into the html of
 /// the invoked web application.
 ///
-/// It returns the [html.HeadElement] object after the meta tag has been
-/// inserted, but this is for validation purposes.
-///
 /// ## Parameters
 ///
 /// - [title]: A concise title for the related content.
@@ -44,7 +41,7 @@ import 'twitter_card_exception.dart';
 /// ## reference
 ///
 /// - https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/summary
-html.HeadElement setupSummaryCard({
+void setupSummaryCard({
   required String title,
   String? site,
   String? description,
