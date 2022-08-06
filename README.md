@@ -90,6 +90,8 @@ Implementation using this library is very simple, just call the method correspon
 For example, if you want to set up [Summary Card](https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/summary) on any page, you can write so as follows.
 
 ```dart
+import 'package:twitter_cards/twitter_cards';
+
 void main() {
   setupSummaryCard(
     title: 'Small Island Developing States Photo Submission',
