@@ -163,12 +163,10 @@ Or you can create a [discussion](https://github.com/twitter-dart/twitter-cards/d
 
 We also provide the following libraries related to Twitter!
 
-- **twitter_api_v2**: The easiest way to using [Twitter API v2.0](https://developer.twitter.com/en/docs/twitter-api/data-dictionary/introduction) with Dart and Flutter. Strong support for all [v2.0 endpoints](https://developer.twitter.com/en/docs/api-reference-index).
-  - [GitHub](https://github.com/twitter-dart/twitter-api-v2)
-  - [Pub.dev](https://pub.dev/packages/twitter_api_v2)
-- **twitter_oauth2_pkce**: This is the easiest way to obtain a Twitter access token using the [OAuth 2.0 PKCE](https://developer.twitter.com/en/docs/authentication/oauth-2-0/authorization-code) method.
-  - [GitHub](https://github.com/twitter-dart/twitter-oauth2-pkce)
-  - [Pub.dev](https://pub.dev/packages/twitter_oauth2_pkce)
+| Library                 | Description                                                                                                                                                                                                                                            | Links                                                                                                                       |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
+| **twitter_api_v2**      | The easiest way to using [Twitter API v2.0](https://developer.twitter.com/en/docs/twitter-api/data-dictionary/introduction) with Dart and Flutter. Strong support for all [v2.0 endpoints](https://developer.twitter.com/en/docs/api-reference-index). | [GitHub](https://github.com/twitter-dart/twitter-api-v2) </br> [Pub.dev](https://pub.dev/packages/twitter_api_v2)           |
+| **twitter_oauth2_pkce** | This is the easiest way to obtain a Twitter access token using the [OAuth 2.0 PKCE](https://developer.twitter.com/en/docs/authentication/oauth-2-0/authorization-code) method.                                                                         | [GitHub](https://github.com/twitter-dart/twitter-oauth2-pkce) </br> [Pub.dev](https://pub.dev/packages/twitter_oauth2_pkce) |
 
 ## 1.6. License 🔑
 
