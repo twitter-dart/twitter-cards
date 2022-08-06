@@ -1,7 +1,7 @@
 name: twitter_cards
 description: This library provides the easiest way to integrate Twitter Cards in Flutter web apps.
-version: 0.0.1
-repository: https://github.com/myConsciousness/twitter-cards
+version: 0.0.2
+repository: https://github.com/twitter-dart/twitter-cards
 issue_tracker: https://github.com/twitter-dart/twitter-cards/issues
 
 environment:
