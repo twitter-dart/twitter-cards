@@ -17,7 +17,7 @@ jobs:
         uses: snow-actions/tweet@v1.2.0
         with:
           status: |
-            Hey what's up? 🍿 New version of #twitter_card was released! 🐦🐦🐦
+            Hey what's up? 🍿 New version of #twitter_cards was released! 🐦🐦🐦
             Release note: https://github.com/twitter-dart/twitter-card/blob/main/CHANGELOG.md
             #dart #twitter #flutter #FlutterDev #programming #100DaysOfCode #OSS #coding
             via #GitHub Actions https://github.com/twitter-dart/twitter-card
