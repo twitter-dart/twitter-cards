@@ -91,7 +91,12 @@ For example, if you want to set up [Summary Card](https://developer.twitter.com/
 
 ```dart
 void main() {
-
+  setupSummaryCard(
+    title: 'Small Island Developing States Photo Submission',
+    site: '@flickr',
+    description: 'View the album on Flickr.',
+    imageUrl: 'https://farm6.staticflickr.com/5510/14338202952_93595258ff_z.jpg',
+  );
 }
 ```
 
