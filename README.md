@@ -59,10 +59,10 @@ This library safely and flawlessly sets up [Twitter Cards](https://developer.twi
 
 ## 1.1. Features 💎
 
-✅ Works with **Flutter Web**.
-✅ **No HTML knowledge required**.
-✅ **Settings can be changed dynamically at app runtime**.
-✅ **Well documented** and **well tested**.
+✅ Works with **Flutter Web**. </br>
+✅ **No HTML knowledge required**. </br>
+✅ **Settings can be changed dynamically at app runtime**. </br>
+✅ **Well documented** and **well tested**. </br>
 
 ## 1.2. Getting Started ⚡
 
