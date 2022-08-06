@@ -74,7 +74,7 @@ This library safely and flawlessly sets up [Twitter Cards](https://developer.twi
  flutter pub add twitter_cards
 ```
 
-> **Note**
+> **Note** </br>
 > [Twitter Cards](https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/abouts-cards) can be applied to HTML-based web content.
 
 ### 1.2.2. Import
