@@ -2,6 +2,8 @@
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted provided the conditions.
 
+// ignore_for_file: avoid_web_libraries_in_flutter
+
 // Dart imports:
 import 'dart:html';
 
