@@ -3,8 +3,11 @@
 // modification, are permitted provided the conditions.
 
 // ignore: avoid_web_libraries_in_flutter
+
+// Dart imports:
 import 'dart:html' as html;
 
+// Project imports:
 import 'twitter_card_exception.dart';
 
 /// Set up a Twitter Summary Card based on the given arguments.
